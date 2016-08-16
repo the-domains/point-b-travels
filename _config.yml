@@ -14,12 +14,11 @@ layout_spectrum: 0.20404529967345297
 author:
   name: Alejandro
   email: ahepburn03@gmail.com
-name: Point B Travels
+name: Mola Art Panama
 navigation:
   - name: Tours and Airport Transfers
     url: 'http://pointbtransfers.com/'
     type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/382b29eb-f082-487a-b1ed-177286ab124f.png
-title: Discover Panama
+favicon: null
+title: Mola art and souvenirs
 description: Have fun discovering Panama!
