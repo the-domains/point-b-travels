@@ -1,16 +1,16 @@
-typography_spectrum: 0.3168111671693623
+typography_spectrum: 0.11927674687467515
 color:
-  brandStrength: 0.5145470702555031
-  lightness: 0.38552631018683314
-  saturation: 0.9464655155315995
-  rhythmicContrast: 0.72413564263843
+  brandStrength: 0.362538248533383
+  lightness: 0.5130658086854964
+  saturation: 0.5990062481723726
+  rhythmicContrast: 0.09354017395526171
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.2916997326537967
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+layout_spectrum: 0.20404529967345297
 name: Point B Travels
 navigation:
   - name: Tours and Airport Transfers
