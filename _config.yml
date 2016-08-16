@@ -19,6 +19,7 @@ navigation:
   - name: Tours and Airport Transfers
     url: 'http://pointbtransfers.com/'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cbb8304-586b-401d-94eb-37fc33b1d07c.jpg
 title: Mola art and souvenirs
 description: Have fun discovering the beauties of Panama!
